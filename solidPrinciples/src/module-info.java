@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author minkhantthu
+ *
+ */
+module solidPrinciples {
+}
